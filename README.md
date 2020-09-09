@@ -11,6 +11,8 @@ If you want to know me more:
 
 I am a huge fan of football :soccer: and a huge fan of F1 :red_car:! 
 
+<!--
+
 <br />
 
 You can find me on other social networks!
@@ -19,7 +21,7 @@ You can find me on other social networks!
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/ale.fuuma/]
 
 
-<!--
+
 **alefuma/alefuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
