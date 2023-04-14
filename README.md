@@ -5,7 +5,7 @@ My name is Alessio, but you can call me *alefuma*! And this... is my GitHub page
 
 If you want to know me more:
 - :it: I am from Italy
-- :books: I am an Automation Engineering student
+- :books: I am an Telecommunication Engineering student
 - :closed_lock_with_key: I am learning something abour cybersecurity
 - :mailbox: You can send me messages, if you want
 
