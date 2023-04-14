@@ -6,7 +6,7 @@ My name is Alessio, but you can call me *alefuma*! And this... is my GitHub page
 If you want to know me more:
 - :it: I am from Italy
 - :books: I am an Telecommunication Engineering student
-- :closed_lock_with_key: I am learning something abour cybersecurity
+- :closed_lock_with_key: I am learning something abour DevOps, Cloud and Infrastructure Engineering
 - :mailbox: You can send me messages, if you want
 
 I am a huge fan of football :soccer: and a huge fan of F1 :red_car:! 
